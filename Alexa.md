@@ -13,5 +13,6 @@ O desafio proposto pelo professor da matéria de Deep Learning, foi de criar uma
    
 4) “Reconhecimento de objetos”: A IA deve reconhecer pelo menos dois objetos pela WEBCAM e falar o que ela reconheceu.
 
-# Arquivo Capturas.py
+# Desenvolvimento
+Nesse projeto, foram utilizadas as bibliotecaa opencv, tensorflow
 Esse arquivo fará a captura das fotos do seu rosto para poder iniciar a Alexa.
