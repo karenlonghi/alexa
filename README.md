@@ -1,10 +1,10 @@
 Projeto feito na faculdade de Data Science na FIAP, onde meu time criou uma versão mais simples da Alexa.
 
-#Introdução
+# Introdução
 Assistentes virtuais são comuns nos dias de hoje. Alexa, Google Home dentre outras tecnologias disponíveis no mercado utilizam deep learning para reconhecer falas e executar ações.
 Nos quadrinhos, Tony Stark (Homem de Ferro), após ficar sem seu assistente virtual Jarvis, criou a Sexta-feira (Friday), uma I.A. que funciona como uma secretária pessoal do herói bilionário.
 
-#Desafio
+# Desafio
 O desafio proposto pelo professor de Deep Learning, foi de criar uma assistente virtual, que deveriam conter no Mínimo os seguintes comandos por voz:
 
 1- “Ok sexta-feira”: toda vez que a máquina receber este comando, ela deverá responder: “Sim, mestre. O que posso fazer?” (ou outra resposta)
