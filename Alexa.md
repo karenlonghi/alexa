@@ -5,7 +5,7 @@ Nos quadrinhos, Tony Stark (Homem de Ferro), após ficar sem seu assistente virt
 # Desafio
 O desafio proposto pelo professor da matéria de Deep Learning, foi de criar uma assistente virtual, que deveria conter no mínimo os seguintes comandos por voz:
 
-1) “Reconhecimento facial”: a máquina só deve iniciar os comendos de voz após reconhecer o rosto cadastrado. No terminal deve imprimir o nome da pessoa reconhecida e a IA deve FALAR “Boasvindas,<seunome>".
+1) “Reconhecimento facial”: a máquina só deve iniciar os comendos de voz após reconhecer o rosto cadastrado. No terminal deve imprimir o nome da pessoa reconhecida e a IA deve falar “Boas vindas, <seunome>".
 
 2) “Cadastrar evento na agenda”: quando a máquina receber este comando, deverá responder: “Ok, qual evento devo cadastrar?” (ou outra resposta) e na sequência ficará aguardando a resposta. Quando você responder, o algoritmo deverá transcrever sua fala em texto e gravar em um arquivo (.txt) no seu computador (HD, SSD etc.).
 
