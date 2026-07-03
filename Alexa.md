@@ -1,6 +1,5 @@
 # Introdução
-Assistentes virtuais são comuns nos dias de hoje. Alexa, Google Home dentre outras tecnologias disponíveis no mercado utilizam deep learning para reconhecer falas e executar ações.
-Nos quadrinhos, Tony Stark (Homem de Ferro), após ficar sem seu assistente virtual Jarvis, criou a Sexta-feira (Friday), uma I.A. que funciona como uma secretária pessoal do herói bilionário.
+Assistentes virtuais são comuns nos dias de hoje. Alexa, Google Home dentre outras tecnologias disponíveis no mercado utilizam deep learning para reconhecer falas e executar ações. A proposta do projeto é criar uma "alexa" mais simples, com o que foi aprendido em aula.
 
 # Desafio
 O desafio proposto pelo professor da matéria de Deep Learning, foi de criar uma assistente virtual, que deveria conter no mínimo os seguintes comandos por voz:
